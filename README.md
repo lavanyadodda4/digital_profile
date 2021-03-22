@@ -16,3 +16,5 @@ item 1
  * item 3b
 ![GitHub Logo](/images/logo.png)
  format: ![alt text](url)
+https://github.com - automatic!
+ [GitHub](htt://github.com)
