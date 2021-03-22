@@ -25,11 +25,10 @@ first header  |  second header
 GitHub suppiots emoji!
  :+1: :sparkles: :camel: :tada:
  :rocket: :metal: :octocat:
-Johnny Coder
+lavanya
 ============
 
 -------------------     ----------------------------
-lavanya Dodda                   Y19CB019
 turakapaleum                     lavanyahosanna@gmail.com
 guntur                          
 India                           7093885295
